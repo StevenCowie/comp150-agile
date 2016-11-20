@@ -19,8 +19,6 @@ http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7577420/
 [6]
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/1609824/
 
-[7]
-http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/xpls/icp.jsp?arnumber=7224484
 
 [8]
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6005502/
