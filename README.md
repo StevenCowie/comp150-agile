@@ -9,22 +9,23 @@ The question I am looking for an answer for to is what are the key challeneges g
 [1] Charles E. Matthews, "Agile Practices in Embedded Systems", SPLASH '11 Workshops, October 22–23, 2011, Portland, Oregon, USA PP 249-250.
 http://dl.acm.org.ezproxy.falmouth.ac.uk/citation.cfm?id=2095091 
 
-
-[4] 
+[2] 
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6634027/
 
-[5]
+[3]
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7577420/
 
-[6]
+[4]
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/1609824/
 
-
-[8]
+[5]
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6005502/
 
-[9]
+[6]
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4638656/
 
-[10]
+[7]
 http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/4293626/
+
+[8]
+http://worldcomp-proceedings.com/proc/p2015/SER2336.pdf
